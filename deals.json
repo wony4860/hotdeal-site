@@ -31,7 +31,7 @@
   },
   {
     "id": 1,
-    "title": "API 테스트 상품 1",
+    "title": "API 테스트 상품 1변경",
     "price": "9,900원",
     "category": "테스트",
     "image": "https://picsum.photos/400?random=31",

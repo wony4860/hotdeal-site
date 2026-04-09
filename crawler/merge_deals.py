@@ -7,8 +7,8 @@ site_path = base_path.parent / "site" / "deals.json"
 root_path = base_path.parent / "deals.json"
 
 sources = [
-    base_path / "products.json",
-    base_path / "api_products.json"
+    base_path / "api_products.json",
+    base_path / "products.json"
 ]
 
 rules_path = base_path / "rules.json"

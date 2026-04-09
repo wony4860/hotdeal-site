@@ -4,6 +4,8 @@ from pathlib import Path
 base_path = Path(__file__).resolve().parent
 
 scripts = [
+    "adpick_fetch.py",
+    "adpick_hotdeal_fetch.py",
     "fetch_deals.py",
     "api_fetch.py",
     "merge_deals.py",

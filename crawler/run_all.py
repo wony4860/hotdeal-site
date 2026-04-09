@@ -6,7 +6,8 @@ base_path = Path(__file__).resolve().parent
 scripts = [
     "fetch_deals.py",
     "api_fetch.py",
-    "merge_deals.py"
+    "merge_deals.py",
+    "auto_push.py"
 ]
 
 for script in scripts:

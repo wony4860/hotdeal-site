@@ -3,6 +3,7 @@ from pathlib import Path
 
 base_path = Path(__file__).resolve().parent
 site_path = base_path.parent / "site" / "deals.json"
+root_path = base_path.parent / "deals.json"
 
 sources = [
     base_path / "products.json",
@@ -36,5 +37,9 @@ for source in sources:
 with open(site_path, "w", encoding="utf-8") as f:
     json.dump(merged, f, ensure_ascii=False, indent=2)
 
+with open(root_path, "w", encoding="utf-8") as f:
+    json.dump(merged, f, ensure_ascii=False, indent=2)
+
 print("통합 deals.json 저장 완료")
 print(site_path)
+print(root_path)

@@ -23,7 +23,7 @@
     "price": "19,900원",
     "category": "테스트",
     "image": "https://picsum.photos/400?random=32",
-    "link": "https://www.coupang.com",
+    "link": "https://www.coupang.com/?test=3",
     "badge": ""
   }
 ]

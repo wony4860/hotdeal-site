@@ -1,25 +1,5 @@
 [
   {
-    "id": 23,
-    "title": "특가 테스트 상품 3",
-    "price": "19,900원",
-    "category": "테스트",
-    "image": "https://picsum.photos/400?random=32",
-    "link": "https://www.coupang.com/?test=3",
-    "badge": "오늘특가",
-    "date": "2026-04-09 15:54:50"
-  },
-  {
-    "id": 1,
-    "title": "API 테스트 상품 1변경",
-    "price": "9,900원",
-    "category": "테스트",
-    "image": "https://picsum.photos/400?random=31",
-    "link": "https://www.coupang.com",
-    "badge": "API테스트",
-    "date": "2026-04-09 15:54:50"
-  },
-  {
     "id": 3,
     "title": "킬로리 제로콘누들 다이어트 짜장라면",
     "price": "23,555원",
@@ -27,7 +7,7 @@
     "image": "",
     "link": "https://www.coupang.com/vp/products/8505593046?vendorItemId=91629656987&sourceType=HOME_PERSONALIZED_ADS&searchId=feed-4a075e717eb44066887908a9509af1d0-3.33.14%3Apersonalized_ads&clickEventId=3f2130c0-33ab-11f1-9577-adff6d1d9807",
     "badge": "오늘특가",
-    "date": "2026-04-09 15:54:50"
+    "date": "2026-04-09 16:59:04"
   },
   {
     "id": 2,
@@ -37,7 +17,7 @@
     "image": "",
     "link": "https://www.coupang.com/vp/products/9009892956?itemId=26431630094&vendorItemId=93407395900&sourceType=gm_crm_oms&subSourceType=gm_crm_gwc1mainbnr_p2981_b1004606_c533502&omsPageId=166727&omsPageUrl=166727",
     "badge": "오늘특가",
-    "date": "2026-04-09 15:54:50"
+    "date": "2026-04-09 16:59:04"
   },
   {
     "id": 1,
@@ -47,6 +27,6 @@
     "image": "",
     "link": "https://www.coupang.com/vp/products/9185684615?itemId=27096449021&searchId=02223f1dc83a4452bb882cace54d9ed4&sourceType=brandstore_display_ads-products&storeId=109702&subSourceType=brandstore_display_ads-products&vendorId=A00054860&vendorItemId=94064642409",
     "badge": "오늘특가",
-    "date": "2026-04-09 15:54:50"
+    "date": "2026-04-09 16:59:04"
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "default_badge": "추천",
+  "special_badges": {
+    "세일": "오늘특가",
+    "특가": "오늘특가",
+    "핫딜": "오늘특가",
+    "마감": "마감임박",
+    "한정": "마감임박"
+  },
+  "exclude_if_no_price": true,
+  "sort_by_latest": true
+}

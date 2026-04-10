@@ -23,10 +23,28 @@ async function loadDeals() {
   }
 }
 
-function renderCategoryButtons() {
-  const categories = ["전체", ...new Set(allDeals.map(deal => deal.category))];
+function formatPrice(price) {
+  if (!price) return "가격 미정";
 
-  categoryButtons.innerHTML = categories.map(category => `
+  const raw = String(price).replace(/[^\d]/g, "");
+  if (!raw) return String(price);
+
+  return Number(raw).toLocaleString("ko-KR") + "원";
+}
+
+function getTabName(deal) {
+  const badge = (deal.badge || "").trim();
+
+  if (badge === "핫딜") return "핫딜";
+  if (badge === "추천") return "추천";
+
+  return "기타";
+}
+
+function renderCategoryButtons() {
+  const tabs = ["전체", "추천", "핫딜"];
+
+  categoryButtons.innerHTML = tabs.map(category => `
     <button
       class="category-button ${category === selectedCategory ? "active" : ""}"
       data-category="${category}"
@@ -50,17 +68,22 @@ function renderDeals() {
   const filteredDeals =
     selectedCategory === "전체"
       ? allDeals
-      : allDeals.filter(deal => deal.category === selectedCategory);
+      : allDeals.filter(deal => getTabName(deal) === selectedCategory);
+
+  if (!filteredDeals.length) {
+    dealList.innerHTML = `<p class="empty-message">${selectedCategory} 상품이 아직 없어요.</p>`;
+    return;
+  }
 
   dealList.innerHTML = filteredDeals.map(deal => `
     <div class="deal-card">
       <img src="${deal.image}" alt="${deal.title}" />
       <div class="deal-content">
-        <div class="badge">${deal.badge}</div>
-        <div class="category">${deal.category}</div>
+        <div class="badge">${deal.badge || "추천"}</div>
+        <div class="category">${deal.category || "기타"}</div>
         <div class="title">${deal.title}</div>
-        <div class="price">${deal.price}</div>
-        <div class="date">${deal.date}</div>
+        <div class="price">${formatPrice(deal.price)}</div>
+        <div class="date">${deal.date || ""}</div>
         <a class="buy-button" href="${deal.link}" target="_blank">구매하러 가기</a>
       </div>
     </div>

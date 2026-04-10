@@ -116,8 +116,11 @@ function renderDeals() {
     <div class="deal-card">
       <img src="${deal.image}" alt="${deal.title}" />
       <div class="deal-content">
-        <div class="badge">${deal.badge || "추천"}</div>
-        <div class="category">${deal.category || "기타"}</div>
+        <div class="card-top">
+  <div class="badge">${deal.badge || "추천"}</div>
+  <div class="source-badge">${deal.source || "기타"}</div>
+</div>
+<div class="category">${deal.category || "기타"}</div>
         <div class="title">${deal.title}</div>
         <div class="price">${formatPrice(deal.price)}</div>
         ${deal.commission ? `<div class="commission">커미션 ${deal.commission}</div>` : ""}

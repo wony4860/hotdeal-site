@@ -1,8 +1,10 @@
 const dealList = document.getElementById("deal-list");
 const categoryButtons = document.getElementById("category-buttons");
+const searchInput = document.getElementById("search-input");
 
 let allDeals = [];
 let selectedCategory = "전체";
+let searchKeyword = "";
 
 async function loadDeals() {
   try {
@@ -66,13 +68,29 @@ function renderCategoryButtons() {
 }
 
 function renderDeals() {
-  const filteredDeals =
+  let filteredDeals =
     selectedCategory === "전체"
       ? allDeals
       : allDeals.filter(deal => getTabName(deal) === selectedCategory);
 
+  if (searchKeyword.trim()) {
+    const keyword = searchKeyword.trim().toLowerCase();
+
+    filteredDeals = filteredDeals.filter(deal => {
+      const title = (deal.title || "").toLowerCase();
+      const category = (deal.category || "").toLowerCase();
+      const source = (deal.source || "").toLowerCase();
+
+      return (
+        title.includes(keyword) ||
+        category.includes(keyword) ||
+        source.includes(keyword)
+      );
+    });
+  }
+
   if (!filteredDeals.length) {
-    dealList.innerHTML = `<p class="empty-message">${selectedCategory} 상품이 아직 없어요.</p>`;
+    dealList.innerHTML = `<p class="empty-message">조건에 맞는 상품이 아직 없어요.</p>`;
     return;
   }
 
@@ -91,5 +109,10 @@ function renderDeals() {
     </div>
   `).join("");
 }
+
+searchInput.addEventListener("input", (e) => {
+  searchKeyword = e.target.value;
+  renderDeals();
+});
 
 loadDeals();

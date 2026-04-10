@@ -7,23 +7,21 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header class="header">
+<header class="header">
+  <div class="header-inner">
+    <p class="header-badge">오늘의 핫딜 모음</p>
     <h1>핫딜 모음</h1>
-    <p>세일 · 특가 · 마감임박 상품을 한눈에</p>
-  </header>
+    <p class="header-desc">
+      애드픽 추천, 애드픽 핫딜, 쿠팡 추천 상품을 한눈에 모아보세요.
+    </p>
 
-  <section class="notice">
-    <p>이 페이지에는 제휴 링크가 포함될 수 있으며, 이를 통해 수수료를 제공받을 수 있습니다.</p>
-  </section>
-
-  <section class="filter-wrap">
-  <div id="category-buttons" class="category-buttons"></div>
-</section>
-
-  <main class="container">
-    <div id="deal-list" class="deal-grid"></div>
-  </main>
-
-  <script src="script.js"></script>
-</body>
-</html>
+    <div class="search-wrap">
+      <input
+        type="text"
+        id="search-input"
+        class="search-input"
+        placeholder="상품명이나 몰 이름으로 검색해보세요"
+      />
+    </div>
+  </div>
+</header>

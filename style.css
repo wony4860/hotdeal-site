@@ -192,3 +192,89 @@ body {
   font-weight: 700;
   margin-bottom: 10px;
 }
+.header {
+  background: linear-gradient(180deg, #ffffff 0%, #f8f8fb 100%);
+  padding: 32px 16px 22px;
+  text-align: center;
+  border-bottom: 1px solid #ececf2;
+}
+
+.header-inner {
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.header-badge {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #111;
+  color: white;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.header h1 {
+  margin: 0 0 10px;
+  font-size: 34px;
+  line-height: 1.2;
+}
+
+.header-desc {
+  margin: 0 auto 18px;
+  color: #666;
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 620px;
+}
+
+.search-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 520px;
+  padding: 14px 16px;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  font-size: 14px;
+  outline: none;
+  background: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
+}
+
+.search-input:focus {
+  border-color: #111;
+}
+
+.filter-wrap {
+  max-width: 1100px;
+  margin: 18px auto 0;
+  padding: 0 16px;
+}
+
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.category-button {
+  border: none;
+  background: white;
+  color: #222;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.category-button.active {
+  background: #111;
+  color: white;
+}

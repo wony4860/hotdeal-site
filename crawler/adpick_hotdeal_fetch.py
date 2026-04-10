@@ -29,14 +29,17 @@ converted = []
 
 for idx, item in enumerate(items, start=1):
     converted.append({
-        "id": idx,
-        "title": item.get("product_name", "상품명 없음"),
-        "price": item.get("price_sale", ""),
-        "category": item.get("mall_name") or item.get("mall") or "핫딜",
-        "image": item.get("photo", ""),
-        "link": item.get("buyurl", ""),
-        "badge": "핫딜"
-    })
+    "id": idx,
+    "title": item.get("product_name", "상품명 없음"),
+    "price": item.get("price_sale", ""),
+    "category": item.get("mall_name") or item.get("mall") or "핫딜",
+    "image": item.get("photo", ""),
+    "link": item.get("buyurl", ""),
+    "badge": "핫딜",
+    "source": "애드픽",
+    "source_type": "핫딜",
+    "commission": item.get("commission", "")
+})
 
 with open(hotdeal_products_path, "w", encoding="utf-8") as f:
     json.dump(converted, f, ensure_ascii=False, indent=2)

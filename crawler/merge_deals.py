@@ -54,15 +54,18 @@ for source in sources:
                 seen_links.add(link)
 
                 merged.append({
-                    "id": item.get("id", len(merged) + 1),
-                    "title": item.get("manual_title") or item.get("title", "상품명 없음"),
-                    "price": price if price else "가격 미정",
-                    "category": item.get("category", "기타"),
-                    "image": item.get("manual_image") or item.get("image", ""),
-                    "link": item.get("url") or item.get("link", ""),
-                    "badge": decide_badge(item),
-                    "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                })
+    "id": item.get("id", len(merged) + 1),
+    "title": item.get("manual_title") or item.get("title", "상품명 없음"),
+    "price": price if price else "가격 미정",
+    "category": item.get("category", "기타"),
+    "image": item.get("manual_image") or item.get("image", ""),
+    "link": item.get("url") or item.get("link", ""),
+    "badge": decide_badge(item),
+    "source": item.get("source", ""),
+    "source_type": item.get("source_type", ""),
+    "commission": item.get("commission", ""),
+    "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+})
 
 if sort_by_latest:
     merged = list(reversed(merged))

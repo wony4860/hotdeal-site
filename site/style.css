@@ -186,3 +186,9 @@ body {
 .buy-button:hover {
   opacity: 0.92;
 }
+.commission {
+  font-size: 13px;
+  color: #d6336c;
+  font-weight: 700;
+  margin-bottom: 10px;
+}

@@ -33,16 +33,17 @@ function formatPrice(price) {
 }
 
 function getTabName(deal) {
-  const badge = (deal.badge || "").trim();
+  const sourceType = (deal.source_type || "").trim();
 
-  if (badge === "핫딜") return "핫딜";
-  if (badge === "추천") return "추천";
+  if (sourceType === "추천") return "애드픽 추천";
+  if (sourceType === "핫딜") return "애드픽 핫딜";
+  if ((deal.source || "").trim() === "쿠팡") return "쿠팡";
 
   return "기타";
 }
 
 function renderCategoryButtons() {
-  const tabs = ["전체", "추천", "핫딜"];
+  const tabs = ["전체", "애드픽 추천", "애드픽 핫딜", "쿠팡"];
 
   categoryButtons.innerHTML = tabs.map(category => `
     <button
@@ -83,6 +84,7 @@ function renderDeals() {
         <div class="category">${deal.category || "기타"}</div>
         <div class="title">${deal.title}</div>
         <div class="price">${formatPrice(deal.price)}</div>
+        ${deal.commission ? `<div class="commission">커미션 ${deal.commission}</div>` : ""}
         <div class="date">${deal.date || ""}</div>
         <a class="buy-button" href="${deal.link}" target="_blank">구매하러 가기</a>
       </div>

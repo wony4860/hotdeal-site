@@ -9,6 +9,7 @@ root_path = base_path.parent / "deals.json"
 sources = [
     base_path / "api_hotdeals.json",
     base_path / "api_products.json",
+    base_path / "coupang_partners.json",
     base_path / "products.json"
 ]
 

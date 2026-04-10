@@ -1,10 +1,12 @@
 const dealList = document.getElementById("deal-list");
 const categoryButtons = document.getElementById("category-buttons");
 const searchInput = document.getElementById("search-input");
+const sortSelect = document.getElementById("sort-select");
 
 let allDeals = [];
 let selectedCategory = "전체";
 let searchKeyword = "";
+let selectedSort = "latest";
 
 async function loadDeals() {
   try {
@@ -70,7 +72,7 @@ function renderCategoryButtons() {
 function renderDeals() {
   let filteredDeals =
     selectedCategory === "전체"
-      ? allDeals
+      ? [...allDeals]
       : allDeals.filter(deal => getTabName(deal) === selectedCategory);
 
   if (searchKeyword.trim()) {
@@ -86,6 +88,22 @@ function renderDeals() {
         category.includes(keyword) ||
         source.includes(keyword)
       );
+    });
+  }
+
+  if (selectedSort === "priceLow") {
+    filteredDeals.sort((a, b) => {
+      const priceA = Number(String(a.price || "").replace(/[^\d]/g, "")) || 0;
+      const priceB = Number(String(b.price || "").replace(/[^\d]/g, "")) || 0;
+      return priceA - priceB;
+    });
+  }
+
+  if (selectedSort === "priceHigh") {
+    filteredDeals.sort((a, b) => {
+      const priceA = Number(String(a.price || "").replace(/[^\d]/g, "")) || 0;
+      const priceB = Number(String(b.price || "").replace(/[^\d]/g, "")) || 0;
+      return priceB - priceA;
     });
   }
 
@@ -110,9 +128,18 @@ function renderDeals() {
   `).join("");
 }
 
-searchInput.addEventListener("input", (e) => {
-  searchKeyword = e.target.value;
-  renderDeals();
-});
+if (searchInput) {
+  searchInput.addEventListener("input", (e) => {
+    searchKeyword = e.target.value;
+    renderDeals();
+  });
+}
+
+if (sortSelect) {
+  sortSelect.addEventListener("change", (e) => {
+    selectedSort = e.target.value;
+    renderDeals();
+  });
+}
 
 loadDeals();

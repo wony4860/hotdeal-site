@@ -278,3 +278,24 @@ body {
   background: #111;
   color: white;
 }
+.sort-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.sort-select {
+  width: 100%;
+  max-width: 220px;
+  padding: 12px 14px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  font-size: 14px;
+  background: white;
+  outline: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
+}
+
+.sort-select:focus {
+  border-color: #111;
+}

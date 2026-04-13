@@ -4,92 +4,48 @@
     "description": "제휴몰들의 실시간 핫딜 정보를 알려 드립니다.",
     "list": [
       {
-        "product_name": "양배추추출분말 아크네팜 300g",
-        "photo": "https://eyoumall.godohosting.com/pages/asu/260408/b/13.jpg",
+        "product_name": "[공식] 닥터브로너스 퓨어 캐스틸 솝 950ml+전용펌프 택1",
+        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/dl/v2/9/5/5/8/0/0/Xczja/3087955800_228290853_05.webp",
+        "mall": "www.11st.co.kr",
+        "mall_name": "11번가",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
+        "price_sale": "26,640",
+        "price_org": "26,640",
+        "commission": "최대 2.1%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F3087955800%3FtrTypeCd%3D42"
+      },
+      {
+        "product_name": "국내산 연근 실속형 1kg(7-8개)",
+        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/dl/v2/9/7/6/1/7/3/tZLQw/8792976173_227964907_05.webp",
+        "mall": "www.11st.co.kr",
+        "mall_name": "11번가",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
+        "price_sale": "10,930",
+        "price_org": "11,500",
+        "commission": "최대 2.1%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F8792976173%3FtrTypeCd%3D42"
+      },
+      {
+        "product_name": "플랙커스 트윈라인 300개입",
+        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/dl/v2/5/1/6/4/5/9/ppHHx/6940516459_228288446.webp",
+        "mall": "www.11st.co.kr",
+        "mall_name": "11번가",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
+        "price_sale": "12,500",
+        "price_org": "13,880",
+        "commission": "최대 2.1%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F6940516459%3FtrTypeCd%3D42"
+      },
+      {
+        "product_name": "엄마사랑 검은콩 참깨 식사대용 선식 미숫가루 500g x 2팩",
+        "photo": "https://eyoumall.godohosting.com/pages/asu/260330/b/15.jpg",
         "mall": "www.eyoumall.co.kr",
         "mall_name": "이유몰",
         "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
-        "price_sale": "1,899",
-        "price_org": "57,900",
+        "price_sale": "5,999",
+        "price_org": "30,000",
         "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629673"
-      },
-      {
-        "product_name": "하루특가) 서비푸드 리얼닭주스 플러스 280ml x 18ea(세트) 마시는 프로틴",
-        "photo": "https://image.gmarket.co.kr/hanbando/202604/8dbd1b6d-cc9a-4e0f-896a-5daf3d363571.png",
-        "mall": "item.gmarket.co.kr",
-        "mall_name": "G마켓",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
-        "price_sale": "43,350",
-        "price_org": "43,350",
-        "commission": "2.7%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4606123232"
-      },
-      {
-        "product_name": "퐁퐁 친환경 주방세제 오렌지 1.2L 4개",
-        "photo": "https://image.gmarket.co.kr/hanbando/202604/d6d031a3-f689-4d53-ad12-c7ab1d473c5c.jpg",
-        "mall": "item.gmarket.co.kr",
-        "mall_name": "G마켓",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
-        "price_sale": "8,900",
-        "price_org": "8,900",
-        "commission": "2.7%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D3545658358"
-      },
-      {
-        "product_name": "[항공직송] 토스10%중복+태국 골드망고 4kg 특대과 8-12과 프리미엄",
-        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-462424120053760.jpg",
-        "mall": "ohou.se",
-        "mall_name": "오늘의집",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
-        "price_sale": "30,400",
-        "price_org": "89,900",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3934161%2Fselling"
-      },
-      {
-        "product_name": "매직캔 정품 리필봉투 국내유일3겹  150 / 220 / 250 / 280",
-        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-425238139306048.jpg",
-        "mall": "ohou.se",
-        "mall_name": "오늘의집",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
-        "price_sale": "13,050",
-        "price_org": "14,500",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3768817%2Fselling"
-      },
-      {
-        "product_name": "강아지 간식 덴타 스틱 30g",
-        "photo": "https://eyoumall.godohosting.com/pages/asu/260408/b/30.jpg",
-        "mall": "www.eyoumall.co.kr",
-        "mall_name": "이유몰",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
-        "price_sale": "399",
-        "price_org": "6,900",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629746"
-      },
-      {
-        "product_name": "[렌탈](가전구독) 구독모음 공기청정기/청소기/안마의자/냉장고/세탁기/건조기 등",
-        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-466930666672128.jpg",
-        "mall": "ohou.se",
-        "mall_name": "오늘의집",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
-        "price_sale": "0",
-        "price_org": "0",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3020289%2Fselling"
-      },
-      {
-        "product_name": "(1+1행사)(NEW)불스원샷 플래티넘 연료첨가제 5in1 500ML 2종택1(휘발유 경유)",
-        "photo": "https://image.gmarket.co.kr/hanbando/202511/9478407d-16c8-4e35-afcc-a7ba2ac0d9aa.jpg",
-        "mall": "item.gmarket.co.kr",
-        "mall_name": "G마켓",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
-        "price_sale": "25,430",
-        "price_org": "25,430",
-        "commission": "2.7%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D2217959476"
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D628449"
       },
       {
         "product_name": "아이나코 마유 매터니티 W 케어 100g",
@@ -103,180 +59,158 @@
         "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629719"
       },
       {
-        "product_name": "잇츠온 하루곡물 크리스피롤 50g 3종",
-        "photo": "https://eyoumall.godohosting.com/pages/asu/260320/b/28.jpg",
+        "product_name": "AHC 캡처솔루션프라임리바이탈크림 50ml 2개",
+        "photo": "https://image.gmarket.co.kr/hanbando/202604/eb67d37c-ff1d-4d69-9cc5-0930b0af6218.jpg",
+        "mall": "item.gmarket.co.kr",
+        "mall_name": "G마켓",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
+        "price_sale": "22,080",
+        "price_org": "22,080",
+        "commission": "2.7%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4715611043"
+      },
+      {
+        "product_name": "[10%추가] 닉스키즈, 그루브라임키즈 - 봄 시즌오프, 여름오픈특가 ~ 90%  / 티셔츠, 맨투맨, 자켓, 점퍼, 코트, 팬츠",
+        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/dl/v2/2/2/9/7/3/2/HVKkf/8565229732_227834071_05.webp",
+        "mall": "www.11st.co.kr",
+        "mall_name": "11번가",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
+        "price_sale": "9,900",
+        "price_org": "11,000",
+        "commission": "최대 2.1%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F8565229732%3FtrTypeCd%3D42"
+      },
+      {
+        "product_name": "가을캠핑 제로스트 에어텐트 / 돔 쉘터 / 원터치 텐트 모음전",
+        "photo": "https://prs.ohouse.com/apne2/any/uploads/commerce/store/deal/v1-400776760393728.jpg",
+        "mall": "ohou.se",
+        "mall_name": "오늘의집",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
+        "price_sale": "519,000",
+        "price_org": "599,000",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3663509%2Fselling"
+      },
+      {
+        "product_name": "케어럽 아쿠아/콜라겐/비타씨 캡슐 앰플 50ml",
+        "photo": "https://eyoumall.godohosting.com/pages/asu/251203/b/5-1.jpg",
+        "mall": "www.eyoumall.co.kr",
+        "mall_name": "이유몰",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
+        "price_sale": "1,999",
+        "price_org": "28,900",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D612358"
+      },
+      {
+        "product_name": "[오늘의집 단독] NAMU PORTABLE 나무 포터블 무선 무드등 조명 #4컬러",
+        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-475831960735744.jpg",
+        "mall": "ohou.se",
+        "mall_name": "오늘의집",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
+        "price_sale": "128,000",
+        "price_org": "151,000",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3952253%2Fselling"
+      },
+      {
+        "product_name": "(물가안정) 통닭다리살로 만든 순살 춘천닭갈비 500g x 4팩 (총 2kg)",
+        "photo": "https://image.gmarket.co.kr/hanbando/202604/779922fd-67a6-470b-a117-74267f7af0d2.jpg",
+        "mall": "item.gmarket.co.kr",
+        "mall_name": "G마켓",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
+        "price_sale": "14,440",
+        "price_org": "14,440",
+        "commission": "2.7%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4453890299"
+      },
+      {
+        "product_name": "봄맞이 가구변경 추천, 플랫포인트 모음전",
+        "photo": "https://prs.ohouse.com/apne2/any/uploads/commerce/store/deal/v1-480850547093568.png",
+        "mall": "ohou.se",
+        "mall_name": "오늘의집",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
+        "price_sale": "1,240,000",
+        "price_org": "1,240,000",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F4002716%2Fselling"
+      },
+      {
+        "product_name": "(더행사)미카구토 코로로 젤리 파인애플맛 / 딸기 / 망고",
+        "photo": "https://eyoumall.godohosting.com/pages/asu/260121/b/24.jpg",
         "mall": "www.eyoumall.co.kr",
         "mall_name": "이유몰",
         "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
         "price_sale": "699",
-        "price_org": "4,900",
+        "price_org": "3,800",
         "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D626964"
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D620536"
       },
       {
-        "product_name": "[오늘의집 단독] 1+1 TILO 납작 멀티탭 4colors (3구, 2M, 선물 패키지)",
-        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-472253011075072.jpg",
+        "product_name": "[오늘의집 단독] 빈트 수납 시스템 터치/베이직 옷장 800 시리즈",
+        "photo": "https://prs.ohou.se/apne2/any/uploads/productions/v1-319334308212800.jpg",
         "mall": "ohou.se",
         "mall_name": "오늘의집",
         "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
-        "price_sale": "66,900",
-        "price_org": "119,000",
+        "price_sale": "73,900",
+        "price_org": "249,900",
         "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3967592%2Fselling"
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3215125%2Fselling"
       },
       {
-        "product_name": "스톡 웨더스 오리지널 크리미 필링 80g",
-        "photo": "https://eyoumall.godohosting.com/pages/asu/260410/b/1.jpg",
+        "product_name": "매일 쓰기 좋은 팬/냄비 테팔 TOP100",
+        "photo": "https://prs.ohouse.com/apne2/any/uploads/commerce/store/deal/v1-449436763156480.jpg",
+        "mall": "ohou.se",
+        "mall_name": "오늘의집",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
+        "price_sale": "57,900",
+        "price_org": "87,800",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F1162871%2Fselling"
+      },
+      {
+        "product_name": "맘으로 통큰 닭다리삼계탕 1kg",
+        "photo": "https://eyoumall.godohosting.com/pages/asu/260403/b/18-2.jpg",
         "mall": "www.eyoumall.co.kr",
         "mall_name": "이유몰",
         "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
         "price_sale": "1,999",
+        "price_org": "12,000",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629172"
+      },
+      {
+        "product_name": "엘라스틴 프로틴클리닉 고영양 샴푸 용기 1000ml +리필 900ml",
+        "photo": "https://image.gmarket.co.kr/hanbando/202604/6e72dff6-3eec-4391-9837-39ebc91fac6b.jpg",
+        "mall": "item.gmarket.co.kr",
+        "mall_name": "G마켓",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
+        "price_sale": "12,900",
+        "price_org": "12,900",
+        "commission": "2.7%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4313109927"
+      },
+      {
+        "product_name": "LG 트롬 세탁기건조기세트 FX23WNR-2WQ 트루스팀 23kg+20kg 1등급",
+        "photo": "https://image.gmarket.co.kr/hanbando/202604/03f918ce-0108-46cb-b44c-d73ff997b338.jpg",
+        "mall": "item.gmarket.co.kr",
+        "mall_name": "G마켓",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
+        "price_sale": "2,179,000",
+        "price_org": "2,179,000",
+        "commission": "2.7%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D2816222689"
+      },
+      {
+        "product_name": "퐁퐁 친환경 주방세제 오렌지 1.2L 4개",
+        "photo": "https://image.gmarket.co.kr/hanbando/202604/d6d031a3-f689-4d53-ad12-c7ab1d473c5c.jpg",
+        "mall": "item.gmarket.co.kr",
+        "mall_name": "G마켓",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
+        "price_sale": "8,900",
         "price_org": "8,900",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629791"
-      },
-      {
-        "product_name": "[내일도착] 코스트코 바삭하고 구워만든 고구마칩 300g x 2개",
-        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/product/8458469125/B.webp?721984002",
-        "mall": "www.11st.co.kr",
-        "mall_name": "11번가",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
-        "price_sale": "24,380",
-        "price_org": "33,900",
-        "commission": "최대 2.1%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F8458469125%3FtrTypeCd%3D42"
-      },
-      {
-        "product_name": "대용량 화랑명과 보리 미니와플 180g",
-        "photo": "https://eyoumall.godohosting.com/pages/asu/260408/b/32.jpg",
-        "mall": "www.eyoumall.co.kr",
-        "mall_name": "이유몰",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
-        "price_sale": "1,599",
-        "price_org": "4,900",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629748"
-      },
-      {
-        "product_name": "[T쇼페] 홀라이프 미국산 컬리케일 100 30입, 2개",
-        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/product/9262336024/B.webp?386887843",
-        "mall": "www.11st.co.kr",
-        "mall_name": "11번가",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
-        "price_sale": "17,900",
-        "price_org": "29,900",
-        "commission": "최대 2.1%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F9262336024%3FtrTypeCd%3D42"
-      },
-      {
-        "product_name": "2026 엠앤엠즈 유리컵 기획팩 옐로우 + 레드 + 사은품",
-        "photo": "https://image.gmarket.co.kr/hanbando/202604/1da36815-bb08-4df1-aaa1-33b8bcef238d.jpg",
-        "mall": "item.gmarket.co.kr",
-        "mall_name": "G마켓",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
-        "price_sale": "15,900",
-        "price_org": "15,900",
         "commission": "2.7%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4638119773"
-      },
-      {
-        "product_name": "신일 탁상용 선풍기 양방향 투헤드 BLDC 무선 미니 소형 책상용 캠핑용 써큘레이터 자동회전",
-        "photo": "https://image.gmarket.co.kr/hanbando/202604/9bc8b1f8-0f42-4c5f-b3e6-0f897173a25d.jpg",
-        "mall": "item.gmarket.co.kr",
-        "mall_name": "G마켓",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
-        "price_sale": "29,300",
-        "price_org": "29,300",
-        "commission": "2.7%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4414044873"
-      },
-      {
-        "product_name": "청정원 로제파스타소스 600g, 3개 + 스파게티면 500g, 1개",
-        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/product/6049134025/B.webp?787162994",
-        "mall": "www.11st.co.kr",
-        "mall_name": "11번가",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
-        "price_sale": "14,900",
-        "price_org": "21,900",
-        "commission": "최대 2.1%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F6049134025%3FtrTypeCd%3D42"
-      },
-      {
-        "product_name": "로우 감자칩 100g",
-        "photo": "https://eyoumall.godohosting.com/pages/asu/260406/b/3-1.jpg",
-        "mall": "www.eyoumall.co.kr",
-        "mall_name": "이유몰",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
-        "price_sale": "1,999",
-        "price_org": "5,500",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629327"
-      },
-      {
-        "product_name": "경북 부사사과 중과 5kg  고당도 선별 가정용",
-        "photo": "https://image.gmarket.co.kr/hanbando/202604/4dea6c2f-d461-462d-add8-03b0cbc15ce9.jpg",
-        "mall": "item.gmarket.co.kr",
-        "mall_name": "G마켓",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
-        "price_sale": "22,610",
-        "price_org": "22,610",
-        "commission": "2.7%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4582766792"
-      },
-      {
-        "product_name": "켈로그 첵스초코 쿠키앤크림 420g, 2개 + 증정(첵스초코 쿠키앤크림 30g, 5개)",
-        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/product/8221943104/B.jpg?687722073",
-        "mall": "www.11st.co.kr",
-        "mall_name": "11번가",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
-        "price_sale": "10,500",
-        "price_org": "17,760",
-        "commission": "최대 2.1%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F8221943104%3FtrTypeCd%3D42"
-      },
-      {
-        "product_name": "[1+1]필립스아벤트 국민쪽쪽이 NEW 울트라 에어야광 골라담기 총4P+휴대용소독케이스",
-        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/dl/v2/8/6/7/8/1/5/LwEDi/7969867815_228116968.webp",
-        "mall": "www.11st.co.kr",
-        "mall_name": "11번가",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
-        "price_sale": "18,640",
-        "price_org": "23,300",
-        "commission": "최대 2.1%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F7969867815%3FtrTypeCd%3D42"
-      },
-      {
-        "product_name": "[오늘의집 단독] NEW컬러 1+1 국내산 양발 편한 푹신한 물빠짐 욕실화(2colors)",
-        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-486822451228800.jpg",
-        "mall": "ohou.se",
-        "mall_name": "오늘의집",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
-        "price_sale": "18,900",
-        "price_org": "39,000",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3556350%2Fselling"
-      },
-      {
-        "product_name": "[오늘의집 단독] 7500F_RTX5060_RAM 32GB_랜쿨207 화이트 윈도우포함",
-        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-472270751514624.jpg",
-        "mall": "ohou.se",
-        "mall_name": "오늘의집",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
-        "price_sale": "2,099,000",
-        "price_org": "2,490,000",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3936290%2Fselling"
-      },
-      {
-        "product_name": "먼지를 최소화한 무형광 디자인 타월 세트 모음전",
-        "photo": "https://prs.ohouse.com/apne2/any/uploads/commerce/store/deal/v1-414918751776768.png",
-        "mall": "ohou.se",
-        "mall_name": "오늘의집",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
-        "price_sale": "64,800",
-        "price_org": "81,000",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3747356%2Fselling"
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D3545658358"
       },
       {
         "product_name": "마티니 로제 히비스커스 선크림 50g",
@@ -290,28 +224,6 @@
         "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D598751"
       },
       {
-        "product_name": "무배 체험특가 슈베스 위드코튼 생리대 1팩 / 유기농 순면커버 중형 대형 오버나이트 팬티라이너 슈퍼 롱",
-        "photo": "https://image.gmarket.co.kr/hanbando/202604/099ad4dc-204e-441b-8e2a-20bb596a8779.jpg",
-        "mall": "item.gmarket.co.kr",
-        "mall_name": "G마켓",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
-        "price_sale": "2,900",
-        "price_org": "2,900",
-        "commission": "2.7%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D1523555842"
-      },
-      {
-        "product_name": "고대곡물 파로효소 3gx20포",
-        "photo": "https://eyoumall.godohosting.com/pages/asu/260327/b/13.jpg",
-        "mall": "www.eyoumall.co.kr",
-        "mall_name": "이유몰",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
-        "price_sale": "2,999",
-        "price_org": "50,000",
-        "commission": "2.8%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D628083"
-      },
-      {
         "product_name": "아이앤어스 식기세척기 세제 기름 물때제거 광택 살균 탈취 아이앤어스 3STEP 식세기 세제 50개입 2개",
         "photo": "https://image.gmarket.co.kr/hanbando/202604/8441be9e-0b40-41aa-9f50-a10cc7fce5ba.jpg",
         "mall": "item.gmarket.co.kr",
@@ -323,15 +235,103 @@
         "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4671866030"
       },
       {
-        "product_name": "유토렉스 퍼펙트케어 그리드컬렉션 UV-C 히팅 칫솔살균기",
-        "photo": "https://img.appstory.co.kr//@files/snc/buy/20221109/op28_1667985438.jpg",
-        "mall": "c.appstory.co.kr",
-        "mall_name": "앱스토리",
-        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/1be10f81b31747201379.png",
-        "price_sale": "37,500",
-        "price_org": "87,400",
-        "commission": "1.12%",
-        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=b879e&url=https%3A%2F%2Fc.appstory.co.kr%2F%2Fappliances5825"
+        "product_name": "[T쇼페] 바디랩 검은콩 순수두유 99.9, 185ml, 20포, 2박스",
+        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/product/9262356800/B.webp?490845460",
+        "mall": "www.11st.co.kr",
+        "mall_name": "11번가",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
+        "price_sale": "29,900",
+        "price_org": "39,900",
+        "commission": "최대 2.1%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F9262356800%3FtrTypeCd%3D42"
+      },
+      {
+        "product_name": "큐시락토 혈당케어 프리미엄 2g x 30포(1개월분)",
+        "photo": "https://eyoumall.godohosting.com/pages/asu/260320/b/1.jpg",
+        "mall": "www.eyoumall.co.kr",
+        "mall_name": "이유몰",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
+        "price_sale": "2,999",
+        "price_org": "39,000",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D626712"
+      },
+      {
+        "product_name": "[오늘단하루!쿠폰최대20%+무배]빌리호텔 먼지없는 간절기/사계절 차렵이불세트 10color",
+        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-467748583092352.jpg",
+        "mall": "ohou.se",
+        "mall_name": "오늘의집",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
+        "price_sale": "34,900",
+        "price_org": "79,900",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F2370041%2Fselling"
+      },
+      {
+        "product_name": "에떼르노 감성 주방/세면/샤워 수전 할인 모아보기",
+        "photo": "https://prs.ohouse.com/apne2/any/uploads/commerce/store/deal/v1-487098103644288.png",
+        "mall": "ohou.se",
+        "mall_name": "오늘의집",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
+        "price_sale": "125,000",
+        "price_org": "125,000",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F3725524%2Fselling"
+      },
+      {
+        "product_name": "강이지 간식 에너지 본 36g",
+        "photo": "https://eyoumall.godohosting.com/pages/asu/260408/b/31.jpg",
+        "mall": "www.eyoumall.co.kr",
+        "mall_name": "이유몰",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/da58a26d5b1747201322.png",
+        "price_sale": "399",
+        "price_org": "6,900",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=4d9b1&url=https%3A%2F%2Fwww.eyoumall.co.kr%2Fshop%2Fgoods%2Fitem_view.php%3Fno%3D629747"
+      },
+      {
+        "product_name": "세레비 멜라딥스 식물성 멜라토닌 감태추출물 L 트립토판 몽모랑시 타트체리 깊은 밤을 위한다면 멜라딥스",
+        "photo": "https://image.gmarket.co.kr/hanbando/202604/ed73d0d4-4364-40e9-976a-12a539c70e92.png",
+        "mall": "item.gmarket.co.kr",
+        "mall_name": "G마켓",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
+        "price_sale": "15,130",
+        "price_org": "15,130",
+        "commission": "2.7%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D4482007137"
+      },
+      {
+        "product_name": "(1+1행사)(NEW)불스원샷 플래티넘 연료첨가제 5in1 500ML 2종택1(휘발유 경유)",
+        "photo": "https://image.gmarket.co.kr/hanbando/202604/0f12b8e6-701f-430f-8758-5c41334cb604.jpg",
+        "mall": "item.gmarket.co.kr",
+        "mall_name": "G마켓",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/84c089b9f81747201297.png",
+        "price_sale": "25,430",
+        "price_org": "25,430",
+        "commission": "2.7%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=d7652&url=https%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D2217959476"
+      },
+      {
+        "product_name": "BNR17 비에날키즈 3개월 어린이유산균 뼈건강 장건강 베리맛 츄어블",
+        "photo": "https://cdn.011st.com/11dims/resize/764x764/quality/75/11src/dl/v2/9/5/0/3/6/1/AThgX/3142950361_228122860.png",
+        "mall": "www.11st.co.kr",
+        "mall_name": "11번가",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/9e30c0bcf11747201163.png",
+        "price_sale": "76,420",
+        "price_org": "89,900",
+        "commission": "최대 2.1%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=c16a2&url=https%3A%2F%2Fwww.11st.co.kr%2Fproducts%2F3142950361%3FtrTypeCd%3D42"
+      },
+      {
+        "product_name": "린 셔링 패브릭 호텔 침대 프레임 SS/Q/K (조명 선택)",
+        "photo": "https://prs.ohouse.com/apne2/any/uploads/productions/v1-481872099065856.jpg",
+        "mall": "ohou.se",
+        "mall_name": "오늘의집",
+        "mall_icon": "https://s3.ap-northeast-2.amazonaws.com/oddm.img/2025/af16f839e31753859863.png",
+        "price_sale": "289,000",
+        "price_org": "548,000",
+        "commission": "2.8%",
+        "buyurl": "https://adpick.co.kr/apis/goshopping.php?affid=11b2e6&offer=2cfd6&url=https%3A%2F%2Fohou.se%2Fproductions%2F4003697%2Fselling"
       }
     ]
   }
